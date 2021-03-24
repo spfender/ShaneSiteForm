@@ -1,0 +1,14 @@
+body {
+ background-color: honeydew;
+}
+h1 {
+ color: #800000;
+ text-align: left;
+ font: italic 200% fantasy;
+}
+p {
+ font-style:italic;
+ background-color: #c0c0c0;
+ text-align: center;
+ border: 3px groove #ff8040;
+}
